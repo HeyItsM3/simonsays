@@ -1,2 +1,2 @@
-# simonsays
+# Simon Says
 Simon Says Game
